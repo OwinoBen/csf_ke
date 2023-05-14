@@ -38,4 +38,6 @@ After that, you can install CSF_KE app on required site by running
 $ bench --site [site.name] install-app csf_ke
 ```
 
+### License
 
+GNU General Public License (v3). See [license.txt](https://github.com/navariltd/CSF_KE/blob/master/license.txt) for more information.
