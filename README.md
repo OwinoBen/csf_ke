@@ -40,4 +40,4 @@ $ bench --site [site.name] install-app csf_ke
 
 ### License
 
-GNU General Public License (v3). See [license.txt](https://github.com/navariltd/CSF_KE/blob/master/license.txt) for more information.
+
